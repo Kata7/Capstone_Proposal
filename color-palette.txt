@@ -1,0 +1,26 @@
+Goals:
+ - Modern
+ - Warm
+ - Inviting
+ - Simple / intuitive design
+
+ Cool, shades of blue and purple
+ - Raisin Black #222222
+ - White        #FFFFFF
+ - Independence #4B4E6D
+ - Pearl Aqua   #84DCC6
+ - Cadet Grey   #95A3B3
+
+ Bright Oranges!
+ - Sel. Yellow  #F3B700
+ - Oranges      #FAA300
+ - Fulvous      #E57C04
+ - Vivid Orange #FF6201
+ - Coquelicot   #F63E02
+
+ Red, Orange, White
+ - Black        #000000
+ - White        #FFFFFF
+ - Red          #D00000
+ - Orange       #F18F01
+ - Yellow (opt) #FFBA08

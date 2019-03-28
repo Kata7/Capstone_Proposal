@@ -1,0 +1,10 @@
+- A concise description of an issue to be addressed or a condition to be improved on.
+
+- who, what, where, why, when?
+
+- 3ish sentences
+
+
+--------------------------
+
+This application addresses the problem of "Where do I want to eat?".  Frequently, people are hungry without knowing what they want to eat.  This app allows the user to solve this issue visually in a style reminicent of Tinder.  The user can select or reject the food images.  In doing so they can narrow down their options and find a place to eat.

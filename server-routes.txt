@@ -1,0 +1,16 @@
+GET
+  ('/')
+    - Return array of restaurant objects based on user object/token sent to server.
+
+POST
+  ('/')
+    - Create a new user, create and save initial search data based on their location.
+
+PATCH
+  ('/')
+    - Update user preferences
+    - Create new search data
+
+DELETE
+  ('/')
+    - Delete user profile (uninstall equivalent)

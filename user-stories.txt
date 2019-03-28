@@ -1,0 +1,9 @@
+Trello Link: https://trello.com/b/rZkHOTdH/capstone-am
+
+As a user I should be able to...
+  1. create an account to store my preferences
+  2. see pictures of food from restaurants near me
+  3. see more information about a restaurant / more pictures of food
+  4. reject restaurants I'm not interested in
+  5. keep restaurants I'm maybe interested in
+  6. pick a restaurant that I'm interested in

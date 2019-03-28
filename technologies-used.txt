@@ -1,0 +1,32 @@
+Places API
+  - Used to search restaurants near the user
+  - Will access restaurant photos and reviews
+  - https://developers.google.com/places/web-service/intro
+  - Alt: https://docs.microsoft.com/en-us/bingmaps/spatial-data-services/query-api/query-by-area
+
+Maps API (potential)
+  - to display results
+  - might just feed restaurant to default GPS app on user device.
+
+Foursquare (free) 
+  - https://developer.foursquare.com/places-api
+
+
+
+APP
+1.  Phonegap / Cordova - For oldschool APP
+2.  ??? - For Progressive Application
+
+Frontend
+  - Framework: Vue if possible (not sure with oldschool APP)
+
+Backend
+  - Express.js
+  - Node.js
+
+Database
+  - Knex.js
+  - PostgreSQL
+
+
+  will need the database to handle a users selected and rejected images => allow them to also use the application online.
